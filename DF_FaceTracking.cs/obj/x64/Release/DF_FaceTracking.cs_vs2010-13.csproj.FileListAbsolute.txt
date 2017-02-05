@@ -1,0 +1,64 @@
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Release\Anti Snoozer.exe.config
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Release\Anti Snoozer.exe.manifest
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Release\Anti Snoozer.application
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Release\Anti Snoozer.exe
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Release\Anti Snoozer.pdb
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.MainForm.resources
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Release\Anti Snoozer.exe.manifest
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Release\Anti Snoozer.application
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Release\Anti Snoozer.exe
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Release\Anti Snoozer.pdb
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe.config
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe.manifest
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.application
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.pdb
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.MainForm.resources
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.exe.manifest
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.application
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.exe
+C:\Users\Nyceane\Desktop\Attention Assist Plus\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.pdb
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe.config
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.exe
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.pdb
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe.manifest
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.application
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.pdb
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.MainForm.resources
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.exe.manifest
+C:\Users\Nyceane\Desktop\Attention-Assist-Plus\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.application
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe.config
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.exe
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.pdb
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe.manifest
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.application
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.exe
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\bin\x64\Release\Driver Assistant Plus.pdb
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.MainForm.resources
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.exe.manifest
+C:\Users\Nyceane\Desktop\AntiSnoozer Open Source\DF_FaceTracking.cs\obj\x64\Release\Driver Assistant Plus.application

@@ -1,0 +1,1 @@
+To compile Pubnub C# windows phone 7.1 project, ensure that "WP7" is added as conditional compilation symbol in addition to WINDOWS_PHONE under project properties -> Build -> General

@@ -1,0 +1,13 @@
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.MainForm.resources
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.exe.config
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Debug\libpxcclr.cs.dll
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.exe
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs.pdb
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\obj\x64\Debug\DF_FaceTracking.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\Users\Nyceane\Desktop\AntiSnoozer SDK 2\DF_FaceTracking.cs\bin\x64\Debug\Anti Snoozer.exe.config
